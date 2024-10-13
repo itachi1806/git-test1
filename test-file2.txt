@@ -1,5 +1,5 @@
 This is a second try to learnd git basic commandd
 
-i am using nano command not touch this time
+This one is itachi editing
 
 // this is me editing with VsCode
